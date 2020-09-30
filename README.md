@@ -7,4 +7,4 @@ This repo also contains some other scripts that help you to backup data in anoth
 
 # Usage
 
-Its easy to use.  Your app just needs to make requests with required parameters to this API server and in return it will give you a JSON object.
+Your app needs to make requests with required parameters to this API server and in return it will give you a JSON object.
